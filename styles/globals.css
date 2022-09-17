@@ -14,3 +14,45 @@ a {
 * {
   box-sizing: border-box;
 }
+.aii{
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Mali', cursive;
+}
+.square 
+{
+  background-color:darkslateblue;
+  border: 5px solid brown;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
+  color: aliceblue;
+  width: auto;
+  height: max-content;
+}
+.square2
+{
+  background-color:pink;
+  border: 5px solid palevioletred;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
+  color: aliceblue;
+  width: max-content;
+  height: max-content;
+}
+.square3
+{
+  background-color:lightpink;
+  border: 5px solid coral;
+  margin: 50px;
+  padding: 50px;
+  border-radius: 20px;
+  color: aliceblue;
+  width: auto;
+  height: auto;
+}
+.zoom:hover{
+  transform: scale(1.1); 
+  transition: transform .3s;
+}
+

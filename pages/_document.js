@@ -10,6 +10,9 @@ export default function Document() {
           integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
           crossOrigin="anonymous"
         />
+        <link rel="preconnect" href="https://fonts.googleapis.com"></link>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>
+        <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Mali:wght@500;700&display=swap" rel="stylesheet"></link>
       </Head>
       <body>
         <Main />
